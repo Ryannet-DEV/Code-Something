@@ -10,6 +10,8 @@ Text
 \*\*Not bold \*sentence\* really\*\*
 Text in a Line\
 Line break
+
+Line break 2
 # Heading 1
 ## Heading 2
 ### Heading sizes start
