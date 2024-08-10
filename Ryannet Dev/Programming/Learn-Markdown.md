@@ -2,7 +2,7 @@
 ## Programming
 ### Learn Markdown
 Markdown is a markup language\
-In document editors like Microsoft Office Word, Google Workspace Docs, LibreOffice Write, you format text but Markdown isn't like that
+In document editors like Microsoft Office Word, Google Workspace Docs, LibreOffice Write,You use tools to format text but Markdown isn't like that
 Markdown has a syntax that is typed to format text and it is like HTML but easier\
 So let's start!
 #### Writing text
